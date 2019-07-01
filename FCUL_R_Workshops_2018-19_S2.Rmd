@@ -73,4 +73,11 @@ For each session, you can download the materialsor clone/fork the GitHub reposit
   
 ## Learn more about R
 
-+ [R weekly](https://rweekly.org/) is curated web site that gives a great weekly summary for the R community. I strongly encourage you to follow it.
++ [R weekly](https://rweekly.org/) is curated web site that gives a great weekly 
+summary for the R community. I strongly encourage you to follow it.
+
+## Acknowledgements
+
++ [R Core Team](https://www.r-project.org/contributors.html) for their hard work 
+in developing a stable and reliable product. Please consider making a donation to the
+[R foundation](https://www.r-project.org/foundation/donations.html).
