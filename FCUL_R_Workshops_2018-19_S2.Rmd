@@ -1,0 +1,70 @@
+---
+title: "FCUL R Workshops"
+author: "Saghir Bashir"
+date: "Second Semester 2018-19"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+
+## Workshop On-line Materials
+
++ **Session 1: Tidying data with R** _(12th April 2019)_
+    + [Notes, Exercises & Solutions]
+        + ()
+    + [GitHub Repositories]
+        + [Getting Started in R - Tidyverse Edition](https://github.com/saghirb/Getting-Started-in-R)
+        + [Women in Parliament -- Tidyverse Edition](https://github.com/saghirb/WiP-tidyverse)
+
+<br>
+
++ **Session 2: Tidying data with R** _(15th April 2019)_
+    + [Notes, Exercises & Solutions]
+        + ()
+    + [GitHub Repositories]
+        + [Getting Started in R - Tidyverse Edition](https://github.com/saghirb/Getting-Started-in-R)
+        + [Women in Parliament -- Tidyverse Edition](https://github.com/saghirb/WiP-tidyverse)
+
+<br>
+
++ **Session 3: An Introduction to Data Visualisation using ggplot2** _(3rd May 2019)_
+    + [Notes, Exercises & Solutions]
+        + ()
+    + [GitHub Repositories]
+        + ()
+<br>
+
++ **Session 4: Introduction to data.table** _(24th May 2019)_
+    + [Notes, Exercises & Solutions]
+        + (https://ilustat.com/shared/GSiRdt.zip)
+        + (https://ilustat.com/shared/World-Popn-dt-Solutions.zip)
+    + [GitHub Repositories]
+        + (https://github.com/saghirb/R-datatable-Intro)
+        + [Women in Parliament -- data.table Edition](https://github.com/saghirb/WiP-rdatatable)
+
+<br>
+
++ **Session 5: Getting Started with Git and GitHub for R Users** _(24th May 2019)_
+    + [Notes, Exercises & Solutions]
+        + 
+    + [GitHub Repositories]
+        + 
+
+<br>
+
++ **Session 6: R Workshops Review & Using R in Real-life** _(31st May 2019)_
+    + [Notes, Exercises & Solutions]
+        + ()
+    + [GitHub Repositories]
+        + ()
+
+<br>
+
++ **Session 7: Introduction to R Markdown** _(14th June 2019)_
+    + [Notes, Exercises & Solutions]
+        + ()
+    + [GitHub Repositories]
+        + ()
+  
