@@ -12,62 +12,63 @@ Seven R workshops were presented at the [CEAUL](https://ceaul.org) (at [Faculdad
 da Universidade de Lisboa](https://ciencias.ulisboa.pt/))
 by [Saghir Bashir](https://github.com/saghirb) and facilitated by [João Malato](https://github.com/jtmalato) and [Mónica Eusébio](https://github.com/meusebio).
 
-For each session, you can download the materialsor clone/fork the GitHub repository from below.
+For each session, you can download the materials or **clone/fork** the GitHub repository.
 
 
 ## Workshop On-line Materials
 
 + **Session 1 & 2: Tidying data with R** _(12th & 15th April 2019)_
-    + [Documents]
+    + **Materials**
         + [Notes & Exercises](https://ilustat.com/shared/FCUL-Tidy-Data.zip)
         + [World Populations Exercise Solutions](https://ilustat.com/shared/World-Popn-Solutions.zip)
-    + [GitHub Repositories]
+    + **GitHub Repositories**
         + [Getting Started in R - Tidyverse Edition](https://github.com/saghirb/Getting-Started-in-R)
         + [Women in Parliament -- Tidyverse Edition](https://github.com/saghirb/WiP-tidyverse)
 
 <br>
 
 + **Session 3: An Introduction to Data Visualisation using `ggplot2`** _(3rd May 2019)_
-    + [Documents]
+    + **Materials**
         + [Notes & Exercises](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Intro.zip)
         + [`ggplot2` Exercise Solutions](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Solutions.zip) 
-    + [GitHub Repositories]
+    + **GitHub Repositories**
         + [`ggplot2` -- Intro Workshop](https://github.com/saghirb/ggplot2-Intro-Workshop)
 
 <br>
 
 + **Session 4: Introduction to `data.table`** _(24th May 2019)_
-    + [Documents]
+    + **Materials**
         + [Notes & Exercises](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/GSiRdt.zip)
         + [`data.table` -- World Population Exercise Soultions](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/World-Popn-dt-Solutions.zip)
-    + [GitHub Repositories]
+    + **GitHub Repositories**
         + [`data.table` -- Intro Workshop](https://github.com/saghirb/R-datatable-Intro)
         + [Women in Parliament -- `data.table` Edition](https://github.com/saghirb/WiP-rdatatable)
 
 <br>
 
 + **Session 5: Getting Started with Git and GitHub for R Users** _(24th May 2019)_
-    + [Documents]
-        + [Slides](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users/raw/master/Presentation/Getting-Started-with-Git-and-GitHub-for-R-Users.pdf)
-    + [GitHub Repositories]
+    + **Materials**
+        + [Slides (PDF)](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users/raw/master/Presentation/Getting-Started-with-Git-and-GitHub-for-R-Users.pdf)
+        + [Slides (HTML)](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users/raw/master/Presentation/Getting-Started-with-Git-and-GitHub-for-R-Users.html) - Download this file and open it locally in your browser.
+    + **GitHub Repositories**
         + [Git & GitHub for R Users](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users)
 
 <br>
 
 + **Session 6: R Workshops Review & Using R in Real-life** _(31st May 2019)_
-    + [Documents]
+    + **Materials**
         + [Read Instructions here](Fixing R Errors)
         + [Fixing R Errors - World Population Data](https://raw.githubusercontent.com/saghirb/Fixing-R-Errors-Exercises/master/World-Popn-Errors-Orig.Rmd)
-    + [GitHub Repositories]
+    + **GitHub Repositories**
         + [Fixing R Errors](https://github.com/saghirb/Fixing-R-Errors-Exercises)
 
 <br>
 
 + **Session 7: Introduction to R Markdown** _(14th June 2019)_
-    + [Documents]
+    + **Materials**
         + [Notes & Exercises](https://github.com/saghirb/Rmarkdown-Intro-Workshop/raw/master/Share/RmarkdownWS.zip)
         + [Solutions](https://github.com/saghirb/Rmarkdown-Intro-Workshop/raw/master/Share/RmdWS-Solutions.zip)
-    + [GitHub Repositories]
+    + **GitHub Repositories**
         + [R Markdown -- Intro Workshop](https://github.com/saghirb/Rmarkdown-Intro-Workshop)
   
   
@@ -79,5 +80,4 @@ summary for the R community. I strongly encourage you to follow it.
 ## Acknowledgements
 
 + [R Core Team](https://www.r-project.org/contributors.html) for their hard work 
-in developing a stable and reliable product. Please consider making a donation to the
-[R foundation](https://www.r-project.org/foundation/donations.html).
+in developing a stable and reliable product. 
