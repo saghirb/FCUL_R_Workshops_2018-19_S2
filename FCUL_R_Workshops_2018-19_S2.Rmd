@@ -10,7 +10,8 @@ output:
 
 Seven R workshops were presented at the [CEAUL](https://ceaul.org) (at [Faculdade de Ciências
 da Universidade de Lisboa](https://ciencias.ulisboa.pt/))
-by [Saghir Bashir](https://github.com/saghirb) and facilitated by [João Malato](https://github.com/jtmalato) and [Mónica Eusébio](https://github.com/meusebio).
+by [Saghir Bashir](https://github.com/saghirb) and facilitated by [João Malato](https://github.com/jtmalato), [Mónica Eusébio](https://github.com/meusebio)
+and Soraia Pereira.
 
 For each session, you can download the materials or **clone/fork** the GitHub repository.
 
