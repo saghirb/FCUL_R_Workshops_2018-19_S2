@@ -40,7 +40,7 @@ For each session, you can download the materials or **clone/fork** the GitHub re
 + **Session 4: Introduction to `data.table`** _(24th May 2019)_
     + **Materials**
         + [Notes & Exercises](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/GSiRdt.zip)
-        + [`data.table` -- World Population Exercise Soultions](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/World-Popn-dt-Solutions.zip)
+        + [Solutions: World Population `data.table` Exercises ](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/World-Popn-dt-Solutions.zip)
     + **GitHub Repositories**
         + [`data.table` -- Intro Workshop](https://github.com/saghirb/R-datatable-Intro)
         + [Women in Parliament -- `data.table` Edition](https://github.com/saghirb/WiP-rdatatable)
